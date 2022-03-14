@@ -1,10 +1,9 @@
 # calculadora_TP1
 
-Pontifícia Universidade Católica de Minas Gerais
-Praça da Liberdade
-Engenharia de Software
+Pontifícia Universidade Católica de Minas Gerais (Engenharia de Software)
 
 Profs: Cleiton Tavares e Johnatan Oliviera
+
 Alunos: Andrey Lopes, Bárbara Menezes, Bruno Armanelli, Sarah Freitas Lara, Lucas 
 
 ## Objetivo: Criação de uma calculadora em Ruby usando RSpec
